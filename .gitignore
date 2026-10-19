@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.vscode/
+
+# Локальные рабочие заметки
+/blocks.md
